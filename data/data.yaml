@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/DLCVNLP_MyBatch/yolo/Yolo_Custom_Training/dataset/train/images
+val: /content/drive/MyDrive/DLCVNLP_MyBatch/yolo/Yolo_Custom_Training/dataset/valid/images
+
+nc: 1
+names: ['pothole']
